@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Hedin/static/css/main.c1ba82fb.css",
+    "main.js": "/Hedin/static/js/main.a8e15a61.js",
+    "static/media/hedin10.jpg": "/Hedin/static/media/hedin10.e30a42d6d26d39a53528.jpg",
+    "static/media/hedin14.jpg": "/Hedin/static/media/hedin14.db52710c10d80b98ed67.jpg",
+    "static/media/hedin12.jpg": "/Hedin/static/media/hedin12.51045d21846c5a744f22.jpg",
+    "static/media/hedin9.jpg": "/Hedin/static/media/hedin9.fcae80a0e1dfecf84c6f.jpg",
+    "static/media/hedin13.jpg": "/Hedin/static/media/hedin13.23ad4089eb1eb10475bd.jpg",
+    "static/media/hedin8.jpg": "/Hedin/static/media/hedin8.ce7438d398707174d92f.jpg",
+    "static/media/hedin6.jpg": "/Hedin/static/media/hedin6.7480fbb003ed08309f7c.jpg",
+    "static/media/hedin4.jpg": "/Hedin/static/media/hedin4.09ad5da78166c056ef99.jpg",
+    "static/media/hedin2.jpg": "/Hedin/static/media/hedin2.9d577266cc7828801613.jpg",
+    "static/media/hedin5.jpg": "/Hedin/static/media/hedin5.589e2f1fef8eebccd763.jpg",
+    "static/media/hedin11.jpg": "/Hedin/static/media/hedin11.38da12513779ddd4f1ad.jpg",
+    "static/media/hedin7.jpg": "/Hedin/static/media/hedin7.c36c636df5f59894944a.jpg",
+    "index.html": "/Hedin/index.html",
+    "main.c1ba82fb.css.map": "/Hedin/static/css/main.c1ba82fb.css.map",
+    "main.a8e15a61.js.map": "/Hedin/static/js/main.a8e15a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ba82fb.css",
+    "static/js/main.a8e15a61.js"
+  ]
+}
