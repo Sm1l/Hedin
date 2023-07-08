@@ -1,0 +1,45 @@
+.guessphone {
+  width: 100%;
+  &__form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
+  &__button {
+    font: inherit;
+    color: inherit;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px;
+    background-color: var(--color-black);
+    transition: all 300ms ease-out;
+
+    &:hover {
+      background-color: var(--color-grey);
+      color: var(--color-black);
+      transition: all 300ms ease-out;
+    }
+  }
+  &__number {
+    font: inherit;
+    color: inherit;
+    padding: 5px;
+    background-color: var(--color-black);
+  }
+
+  &__guess {
+  }
+}
+
+@media (min-width: 768px) {
+  .guessphone {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .guessphone {
+    width: 35%;
+  }
+}
